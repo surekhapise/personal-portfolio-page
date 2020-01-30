@@ -1,1 +1,20 @@
 /* Add your CSS code here */
+*{
+  font-family:Helvetica,Arial,sans-serif;
+  max-width:700px;
+  margin:auto;
+}
+body
+{
+  min-width:600px;
+  background-color:#e0eeee;
+}
+.profileBody
+{
+  display:inline-block;
+  background-color:white;
+  margin-top:7px;
+  margin-left:60px:
+  width:75%;
+  height:600px;
+}
